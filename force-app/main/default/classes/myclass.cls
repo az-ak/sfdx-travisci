@@ -1,6 +1,6 @@
 public with sharing class myclass {
 	public myclass() {
-
+// dummy comment
 	}
 
 	public String getAppVersion() {
